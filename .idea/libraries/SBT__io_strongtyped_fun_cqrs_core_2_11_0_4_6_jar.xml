@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: io.strongtyped:fun-cqrs-core_2.11:0.4.6:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/io.strongtyped/fun-cqrs-core_2.11/jars/fun-cqrs-core_2.11-0.4.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/io.strongtyped/fun-cqrs-core_2.11/srcs/fun-cqrs-core_2.11-0.4.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: com.pathfinder:wire-read_2.11:SNAPSHOT:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/local/com.pathfinder/wire-read_2.11/SNAPSHOT/jars/wire-read_2.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/local/com.pathfinder/wire-read_2.11/SNAPSHOT/srcs/wire-read_2.11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

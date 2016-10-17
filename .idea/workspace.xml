@@ -1,0 +1,1066 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36510c27-4158-4534-ab92-a79a442d3343" name="Default" comment="" />
+    <ignored path="rules-service.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="rules-service" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="application.conf" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.conf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.sbt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.sbt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="930">
+              <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DynamicRulesService.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/foo/rules/service/DynamicRulesService.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="376">
+              <caret line="67" column="58" selection-start-line="67" selection-start-column="58" selection-end-line="67" selection-end-column="58" />
+              <folding>
+                <element signature="e#31#84#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/foo/rules/service/Main.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+              <folding>
+                <element signature="e#31#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="plugins.sbt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/project/plugins.sbt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SecureClassLoader.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_72.jdk/Contents/Home/src.zip!/java/security/SecureClassLoader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="System.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_72.jdk/Contents/Home/src.zip!/java/lang/System.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="239">
+              <caret line="332" column="24" selection-start-line="332" selection-start-column="24" selection-end-line="332" selection-end-column="24" />
+              <folding>
+                <element signature="e#11566#11567#0" expanded="true" />
+                <element signature="e#11597#11598#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="URL.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_72.jdk/Contents/Home/src.zip!/java/net/URL.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="437" column="11" selection-start-line="437" selection-start-column="11" selection-end-line="437" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="URLClassLoader.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_72.jdk/Contents/Home/src.zip!/java/net/URLClassLoader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="239">
+              <caret line="155" column="46" selection-start-line="155" selection-start-column="46" selection-end-line="155" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Worksheet" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/project/Versions.scala" />
+        <option value="$USER_HOME$/.ivy2/local/com.foo/rules-spi_2.11/1.0-SNAPSHOT/srcs/rules-spi_2.11-sources.jar!/com/foo/rules/spi/BusinessRule.scala" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.conf" />
+        <option value="$PROJECT_DIR$/build.sbt" />
+        <option value="$PROJECT_DIR$/src/foo.sc" />
+        <option value="$PROJECT_DIR$/src/main/resources/logback.xml" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/foo/rules/service/DynamicRulesService.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/foo/rules/service/Main.scala" />
+        <option value="$PROJECT_DIR$/project/plugins.sbt" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="45" />
+    <option name="y" value="28" />
+    <option name="width" value="1864" />
+    <option name="height" value="1015" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rules-service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rules-service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rules-service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rules-service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rules-service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rules-service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rules-service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rules-service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rules-service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rules-service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rules-service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.compiler.ScalaCompileServerForm" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="SearchEverywhereHistoryKey" value="Product&#9;null&#9;null" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="rules-service" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="executeSpecs" factoryName="Gauge Execution">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="lastUpdateTimestamp" value="1476470150841" />
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="rules-service" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="rules-service" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="rules-service-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/Desktop/SbtDebugScripts/MeterTrendHistory" value="1429192052000" />
+        <entry key="$USER_HOME$/Desktop/scala-training-projects/fast-track-to-scala" value="1459522037000" />
+        <entry key="$USER_HOME$/Desktop/training/GrollTest/scalatrain" value="1465216632000" />
+        <entry key="$USER_HOME$/Desktop/training/LiveCoding/scalatrain" value="1456349696000" />
+        <entry key="$USER_HOME$/Desktop/training/advanced-akka/solutions/008_Data_replication" value="1456348316000" />
+        <entry key="$USER_HOME$/Desktop/training/fast-track-to-akka-scala-1.2.0/fast-track-akka-scala" value="1448292638000" />
+        <entry key="$USER_HOME$/Desktop/training/fast-track-to-akka-scala-1.2.0/solutions/002_Top_level_actor" value="1448292638000" />
+        <entry key="$USER_HOME$/Desktop/training/fast-track-to-akka-scala-1.2.0/solutions/003_Message_actor" value="1448292638000" />
+        <entry key="$USER_HOME$/Desktop/training/fast-track-to-akka-scala-1.2.0/solutions/004_Use_sender" value="1448292638000" />
+        <entry key="$USER_HOME$/Desktop/training/fast-track-to-akka-scala-1.2.0/solutions/007_Use_scheduler" value="1448292638000" />
+        <entry key="$USER_HOME$/Desktop/training/fast-track-to-akka-scala-1.2.0/solutions/008_Busy_actor" value="1448292638000" />
+        <entry key="$USER_HOME$/Desktop/training/fast-track-to-akka-scala-1.2.0/solutions/009_Stop_actor" value="1448292638000" />
+        <entry key="$USER_HOME$/Desktop/training/fast-track-to-akka-scala-1.2.0/solutions/010_Lifecycle_monitoring" value="1448292638000" />
+        <entry key="$USER_HOME$/Desktop/training/fast-track-to-akka-scala-1.2.0/solutions/011_Faulty_guest" value="1448292638000" />
+        <entry key="$USER_HOME$/Desktop/training/fast-track-to-akka-scala-1.2.0/solutions/013_Faulty_waiter" value="1448292638000" />
+        <entry key="$USER_HOME$/Desktop/training/fast-track-to-akka-scala-1.2.0/solutions/014_Self_healing" value="1448292638000" />
+        <entry key="$USER_HOME$/Desktop/training/fast-track-to-akka-scala-1.2.0/solutions/015_Detect_bottleneck" value="1448292638000" />
+        <entry key="$USER_HOME$/Desktop/training/fast-track-to-akka-scala-1.2.0/solutions/016_Implement_router" value="1448292638000" />
+        <entry key="$USER_HOME$/Desktop/training/fast-track-to-akka-scala-1.2.0/solutions/017_Configure_dispatcher" value="1448292638000" />
+        <entry key="$USER_HOME$/Desktop/training/fast-track-to-akka-scala-1.2.0/solutions/018_Modify_behavior" value="1448292638000" />
+        <entry key="$USER_HOME$/Desktop/training/fast-track-to-akka-scala-1.2.0/solutions/019_Ask_pattern" value="1448292638000" />
+        <entry key="$USER_HOME$/Desktop/training/fast-track-to-akka-scala-1.2.0/solutions/020_Akka_extensions" value="1448292638000" />
+        <entry key="$USER_HOME$/Desktop/training/fast-track-to-akka-scala-1.2.0/solutions/021_Fsm" value="1448292638000" />
+        <entry key="$USER_HOME$/Desktop/training/fast-track-to-scala-1.1.3/scalatrain" value="1447863756000" />
+        <entry key="$USER_HOME$/Desktop/training/fast-track-to-scala/scalaTrainUsePatterns" value="1462537034000" />
+        <entry key="$USER_HOME$/Desktop/training/fast-track-to-scala/scalatrain" value="1465216643000" />
+        <entry key="$USER_HOME$/Desktop/training/fast-track-to-scala/scalatrainInit" value="1462534980000" />
+        <entry key="$USER_HOME$/Desktop/training/fast-track-to-scala/scalatrainKoan" value="1462534870000" />
+        <entry key="$USER_HOME$/Desktop/training/fast-track-to-scala/solutions/005_Exercise__Define_a_Method" value="1456364094000" />
+        <entry key="$USER_HOME$/Desktop/training/fast-track-to-scala/solutions/006_Exercise__Define_an_Operator" value="1456364094000" />
+        <entry key="$USER_HOME$/Desktop/training/fast-track-to-scala/solutions/008_Exercise__Use_Packages" value="1456364094000" />
+        <entry key="$USER_HOME$/Desktop/training/fast-track-to-scala/solutions/009_Exercise__Define_a_Companion_Object" value="1456364094000" />
+        <entry key="$USER_HOME$/Desktop/training/fast-track-to-scala/solutions/010_Exercise__Check_Preconditions" value="1456364094000" />
+        <entry key="$USER_HOME$/Desktop/training/fast-track-to-scala/solutions/011_Exercise__Define_Case_Classes" value="1456364094000" />
+        <entry key="$USER_HOME$/Desktop/training/fast-track-to-scala/solutions/012_Group_exercise__Tests" value="1456364094000" />
+        <entry key="$USER_HOME$/Desktop/training/fast-track-to-scala/solutions/013_Exercise__Use_a_Sequence" value="1456364094000" />
+        <entry key="$USER_HOME$/Desktop/training/fast-track-to-scala/solutions/014_Exercise__Use_map" value="1456364094000" />
+        <entry key="$USER_HOME$/Desktop/training/fast-track-to-scala/solutions/015_Exercise__Use_flatMap" value="1456364094000" />
+        <entry key="$USER_HOME$/Desktop/training/fast-track-to-scala/solutions/016_Exercise__Use_filter" value="1456364096000" />
+        <entry key="$USER_HOME$/Desktop/training/fast-track-to-scala/solutions/017_Exercise__Use_for_expressions" value="1456364096000" />
+        <entry key="$USER_HOME$/Desktop/training/fast-track-to-scala/solutions/018_Exercise__Override_toString" value="1456364096000" />
+        <entry key="$USER_HOME$/Desktop/training/fast-track-to-scala/solutions/019_Exercise__Define_an_ADT" value="1456364096000" />
+        <entry key="$USER_HOME$/Desktop/training/fast-track-to-scala/solutions/020_Exercise__Use_a_Trait" value="1456364096000" />
+        <entry key="$USER_HOME$/Desktop/training/fast-track-to-scala/solutions/021_Exercise__Use_Match_Expressions" value="1456364096000" />
+        <entry key="$USER_HOME$/Desktop/training/fast-track-to-scala/solutions/022_Group_exercise__Use_Patterns" value="1456364096000" />
+        <entry key="$USER_HOME$/Desktop/training/fast-track-to-scala/solutions/023_Exercise__Use_Option" value="1456364096000" />
+        <entry key="$USER_HOME$/Desktop/training/fast-track-to-scala/solutions/024_Exercise__Use_Try" value="1456364096000" />
+        <entry key="$USER_HOME$/Desktop/training/oldtracks/fast-track-to-scala-1.1.3/solutions/004_Exercise__Define_a_Field" value="1447863754000" />
+        <entry key="$USER_HOME$/Desktop/training/oldtracks/fast-track-to-scala-1.1.3/solutions/005_Exercise__Define_a_Method" value="1447863754000" />
+        <entry key="$USER_HOME$/Desktop/training/oldtracks/fast-track-to-scala-1.1.3/solutions/006_Exercise__Define_an_Operator" value="1447863754000" />
+        <entry key="$USER_HOME$/Desktop/training/oldtracks/fast-track-to-scala-1.1.3/solutions/007_Exercise__Use_Default_Arguments" value="1447863754000" />
+        <entry key="$USER_HOME$/Desktop/training/oldtracks/fast-track-to-scala-1.1.3/solutions/013_Exercise__Use_a_Sequence" value="1447863754000" />
+        <entry key="$USER_HOME$/Desktop/training/oldtracks/fast-track-to-scala-1.1.3/solutions/014_Exercise__Use_map" value="1447863754000" />
+        <entry key="$USER_HOME$/Desktop/training/oldtracks/fast-track-to-scala-1.1.3/solutions/015_Exercise__Use_flatMap" value="1447863754000" />
+        <entry key="$USER_HOME$/Desktop/training/oldtracks/fast-track-to-scala-1.1.3/solutions/016_Exercise__Use_filter" value="1447863754000" />
+        <entry key="$USER_HOME$/Desktop/training/sbt-koan" value="1452900953000" />
+        <entry key="$USER_HOME$/Desktop/training/scalatrain" value="1456364096000" />
+        <entry key="$USER_HOME$/Desktop/trainingprojects" value="1459365815000" />
+        <entry key="$USER_HOME$/Desktop/trainingprojects/fast-track-to-scala" value="1459365815000" />
+        <entry key="$USER_HOME$/Downloads/akka-http-websocket-reactive-streams" value="1449300346000" />
+        <entry key="$USER_HOME$/Downloads/akka-persistence-eventsourcing" value="1472041285000" />
+        <entry key="$USER_HOME$/Downloads/akka-stream-scala" value="1446906036000" />
+        <entry key="$USER_HOME$/Downloads/ddd-leaven-akka" value="10229797746000" />
+        <entry key="$USER_HOME$/Downloads/sec-parser" value="1467285658000" />
+        <entry key="$USER_HOME$/Downloads/temp/akka-dddd-cqrs" value="1454859800000" />
+        <entry key="$USER_HOME$/Downloads/temp/akka-sample-main-scala-reactive-platform-15v09" value="1456141853000" />
+        <entry key="$USER_HOME$/Downloads/temp/akka-stream-scala" value="1460204424000" />
+        <entry key="$USER_HOME$/Downloads/temp/bootzooka" value="1459877916000" />
+        <entry key="$USER_HOME$/Downloads/temp/chill" value="1457972526000" />
+        <entry key="$USER_HOME$/Downloads/temp/hello-akka" value="1456323835000" />
+        <entry key="$USER_HOME$/Downloads/temp/iot-sensor-demo/server" value="2908160980000" />
+        <entry key="$USER_HOME$/Downloads/temp/kafka" value="1456346084000" />
+        <entry key="$USER_HOME$/Downloads/temp/paho-akka" value="1455756452000" />
+        <entry key="$USER_HOME$/Downloads/temp/phantom" value="1455296577000" />
+        <entry key="$USER_HOME$/Downloads/temp/sample" value="1454497821000" />
+        <entry key="$USER_HOME$/Downloads/vpower-scada" value="7252259995000" />
+        <entry key="$USER_HOME$/Training" value="1469041175000" />
+        <entry key="$USER_HOME$/Training/FTTSWorksheets" value="1469041175000" />
+        <entry key="$USER_HOME$/Training/GrollScalaTrain" value="1469042347000" />
+        <entry key="$USER_HOME$/Training/scalatrain" value="1456349696000" />
+        <entry key="$PROJECT_DIR$/../AWScala" value="1466170197000" />
+        <entry key="$PROJECT_DIR$/../EventStore.Akka.Persistence" value="1472140987000" />
+        <entry key="$PROJECT_DIR$/../EventStore.JVM" value="1469718754000" />
+        <entry key="$PROJECT_DIR$/../EventStoreAkka" value="1469727140000" />
+        <entry key="$PROJECT_DIR$/../Lagonaki" value="1469632090000" />
+        <entry key="$PROJECT_DIR$/../SECSparc" value="1466888704000" />
+        <entry key="$PROJECT_DIR$/../Scorex" value="5878178856000" />
+        <entry key="$PROJECT_DIR$/../SecTransformations" value="1468611640000" />
+        <entry key="$PROJECT_DIR$/../SparkTraining" value="1465480220000" />
+        <entry key="$PROJECT_DIR$/../SparkTraining/TestProject" value="1465136031000" />
+        <entry key="$PROJECT_DIR$/../SparkTraining/spark-sample-project" value="1464889959000" />
+        <entry key="$PROJECT_DIR$/../activator-akka-cassandra" value="1431457948000" />
+        <entry key="$PROJECT_DIR$/../activator-akka-cluster-sharding-scala" value="1472046672000" />
+        <entry key="$PROJECT_DIR$/../activator/projects/akka-monitoring-kamon-statsd" value="1444411135000" />
+        <entry key="$PROJECT_DIR$/../activator/projects/akka-stream-scala" value="1441628298000" />
+        <entry key="$PROJECT_DIR$/../activator/projects/akkaremote" value="1444069997000" />
+        <entry key="$PROJECT_DIR$/../activator/projects/hello-kafka" value="1444287456000" />
+        <entry key="$PROJECT_DIR$/../activator/projects/mongo-stream-kafka" value="1444057187000" />
+        <entry key="$PROJECT_DIR$/../activator/projects/reactive-kafka-scala" value="1445089820000" />
+        <entry key="$PROJECT_DIR$/../activator/projects/typed-actors" value="1443887428000" />
+        <entry key="$PROJECT_DIR$/../activator/reactive-mongo-kafka" value="1447104994000" />
+        <entry key="$PROJECT_DIR$/../akka-alert-cluster-routing" value="1429704740000" />
+        <entry key="$PROJECT_DIR$/../akka-alert-sharding" value="1442657089000" />
+        <entry key="$PROJECT_DIR$/../akka-cluster-sharding-scala" value="1428669560000" />
+        <entry key="$PROJECT_DIR$/../akka-cluster-singleton" value="1471442607000" />
+        <entry key="$PROJECT_DIR$/../akka-ddd" value="1472558673000" />
+        <entry key="$PROJECT_DIR$/../akka-dddd-cqrs" value="1459401636000" />
+        <entry key="$PROJECT_DIR$/../akka-dddd-template" value="1445178097000" />
+        <entry key="$PROJECT_DIR$/../akka-dddd-test-bed" value="1445178138000" />
+        <entry key="$PROJECT_DIR$/../akka-persistence-cassandra" value="1475592598000" />
+        <entry key="$PROJECT_DIR$/../akka-persistence-jdbc" value="1473178634000" />
+        <entry key="$PROJECT_DIR$/../akka-persistence-sql-async" value="1474739946000" />
+        <entry key="$PROJECT_DIR$/../akka-sample-cluster-scala-reactive-platform-15v09" value="1471439740000" />
+        <entry key="$PROJECT_DIR$/../akka/akka-dddd-template" value="1445178097000" />
+        <entry key="$PROJECT_DIR$/../akka/akka-sample-persistence-scala" value="1453931382000" />
+        <entry key="$PROJECT_DIR$/../akka/akka-stream-scala" value="1425147432000" />
+        <entry key="$PROJECT_DIR$/../akkaRecover" value="1461763904000" />
+        <entry key="$PROJECT_DIR$/../atheneum" value="5714691516000" />
+        <entry key="$PROJECT_DIR$/../authentikat-jwt" value="1471375872000" />
+        <entry key="$PROJECT_DIR$/../bigdatalab" value="1433535241000" />
+        <entry key="$PROJECT_DIR$/../cats" value="1473780154000" />
+        <entry key="$PROJECT_DIR$/../chariot-bluetooth" value="1453304503000" />
+        <entry key="$PROJECT_DIR$/../cqrs_template" value="1453901122000" />
+        <entry key="$PROJECT_DIR$/../ddd-leaven-akka-v2" value="10309006162000" />
+        <entry key="$PROJECT_DIR$/../demo-akka-persistence-jdbc" value="1473442725000" />
+        <entry key="$PROJECT_DIR$/../device-data-capture/server" value="5852583233000" />
+        <entry key="$PROJECT_DIR$/../fun-cqrs" value="1471970513000" />
+        <entry key="$PROJECT_DIR$/../futuresFun" value="1461818492000" />
+        <entry key="$PROJECT_DIR$/../hello-akka" value="1465306790000" />
+        <entry key="$PROJECT_DIR$/../hello-scala" value="1453859097000" />
+        <entry key="$PROJECT_DIR$/../ichainTues" value="1461711346000" />
+        <entry key="$PROJECT_DIR$/../integrichain" value="1461694448000" />
+        <entry key="$PROJECT_DIR$/../iot-sensor-demo/kafka" value="1456346084000" />
+        <entry key="$PROJECT_DIR$/../iot-sensor-demo/server" value="7361002164000" />
+        <entry key="$PROJECT_DIR$/../iot-series-part-two/server" value="1469450362000" />
+        <entry key="$PROJECT_DIR$/../json-web-token" value="1471369345000" />
+        <entry key="$PROJECT_DIR$/../lagomination" value="1459262201000" />
+        <entry key="$PROJECT_DIR$/../learning-actors" value="1470222230000" />
+        <entry key="$PROJECT_DIR$/../morpheus" value="1461698030000" />
+        <entry key="$PROJECT_DIR$/../opensource/SprayEasterEggs" value="1453380256000" />
+        <entry key="$PROJECT_DIR$/../opensource/activator-akka-stream-scala" value="1447103330000" />
+        <entry key="$PROJECT_DIR$/../opensource/akka" value="62394081725000" />
+        <entry key="$PROJECT_DIR$/../opensource/akka-akka-stream-and-http-experimental-1.0-RC1" value="17158668600000" />
+        <entry key="$PROJECT_DIR$/../opensource/akka-persistence-cassandra" value="1455388435000" />
+        <entry key="$PROJECT_DIR$/../opensource/akka-persistence-inmemory" value="1441912358000" />
+        <entry key="$PROJECT_DIR$/../opensource/akka-persistence-mock" value="1454105361000" />
+        <entry key="$PROJECT_DIR$/../opensource/akka-persistence-mongo" value="4309013768000" />
+        <entry key="$PROJECT_DIR$/../opensource/akka/akka-http" value="1456000238000" />
+        <entry key="$PROJECT_DIR$/../opensource/akka/akka-http-core" value="1456000238000" />
+        <entry key="$PROJECT_DIR$/../opensource/akka/akka-http-tests" value="1455385927000" />
+        <entry key="$PROJECT_DIR$/../opensource/akka/akka-persistence" value="1453342712000" />
+        <entry key="$PROJECT_DIR$/../opensource/akka/akka-persistence-query" value="1453342712000" />
+        <entry key="$PROJECT_DIR$/../opensource/akka/akka-stream" value="1456412629000" />
+        <entry key="$PROJECT_DIR$/../opensource/akka/akka-stream-tests" value="1456000238000" />
+        <entry key="$PROJECT_DIR$/../opensource/mongo-scala-driver" value="1447341064000" />
+        <entry key="$PROJECT_DIR$/../opensource/paho-akka" value="1454420526000" />
+        <entry key="$PROJECT_DIR$/../opensource/play-json-variants" value="1442496928000" />
+        <entry key="$PROJECT_DIR$/../opensource/playframework/framework" value="1442335246000" />
+        <entry key="$PROJECT_DIR$/../opensource/reactive-kafka" value="1456414487000" />
+        <entry key="$PROJECT_DIR$/../opensource/scalaz" value="1452127071000" />
+        <entry key="$PROJECT_DIR$/../opensource/scodec" value="1454330488000" />
+        <entry key="$PROJECT_DIR$/../opensource/spray" value="1427922570000" />
+        <entry key="$PROJECT_DIR$/../paho-akka" value="1456168022000" />
+        <entry key="$PROJECT_DIR$/../paho-akka-orig" value="1464887060000" />
+        <entry key="$PROJECT_DIR$/../pathfinder/sharding" value="1472045133000" />
+        <entry key="$PROJECT_DIR$/../pathfinder/wire" value="7369307746000" />
+        <entry key="$PROJECT_DIR$/../persistent-query/server" value="7313133345000" />
+        <entry key="$PROJECT_DIR$/../play-scala-slickpg-play2auth" value="1475676745000" />
+        <entry key="$PROJECT_DIR$/../rules-interface" value="1476371127000" />
+        <entry key="$PROJECT_DIR$/../rules-module" value="1476377685000" />
+        <entry key="$PROJECT_DIR$" value="1476470116000" />
+        <entry key="$PROJECT_DIR$/../rules-spi" value="1476371127000" />
+        <entry key="$PROJECT_DIR$/../sbt-swagger" value="1476104199000" />
+        <entry key="$PROJECT_DIR$/../scada-kafka" value="7221417297000" />
+        <entry key="$PROJECT_DIR$/../scalatest-embedded-psql" value="1475703310000" />
+        <entry key="$PROJECT_DIR$/../scalikejdbc" value="16205768898000" />
+        <entry key="$PROJECT_DIR$/../scalikejdbc-activator-template" value="1472599876000" />
+        <entry key="$PROJECT_DIR$/../scripting-test" value="1476356673000" />
+        <entry key="$PROJECT_DIR$/../slick-akka-http" value="1472643471000" />
+        <entry key="$PROJECT_DIR$/../spark-learning/CrashData" value="1458930881000" />
+        <entry key="$PROJECT_DIR$/../spark-sample" value="1464981571000" />
+        <entry key="$PROJECT_DIR$/../spark-xml" value="1468244661000" />
+        <entry key="$PROJECT_DIR$/../sparkKafkaCassandra" value="1430488826000" />
+        <entry key="$PROJECT_DIR$/../spark_hbase" value="1429376675000" />
+        <entry key="$PROJECT_DIR$/../swagger-akka-http-sample" value="1475870389000" />
+        <entry key="$PROJECT_DIR$/../training/fast-track-to-scala-1.1.3/scalatrain" value="1447863756000" />
+        <entry key="$PROJECT_DIR$/../training/scala-training-projects/fast-track-to-scala" value="1469019012000" />
+        <entry key="$PROJECT_DIR$/../util" value="2952711780000" />
+        <entry key="$PROJECT_DIR$/../viridity/ConversionRoutines/AlertConversions" value="1445448610000" />
+        <entry key="$PROJECT_DIR$/../viridity/DebugUtils" value="4300683079000" />
+        <entry key="$PROJECT_DIR$/../viridity/DebugUtils/MeterTrendHistory" value="1435668730000" />
+        <entry key="$PROJECT_DIR$/../viridity/DebugUtils/PriceHistory" value="1435241529000" />
+        <entry key="$PROJECT_DIR$/../viridity/DebugUtils/WeatherHistory" value="1435352100000" />
+        <entry key="$PROJECT_DIR$/../viridity/RedisUtils" value="1432293608000" />
+        <entry key="$PROJECT_DIR$/../viridity/alert-subscription-conversion" value="1445544853000" />
+        <entry key="$PROJECT_DIR$/../viridity/mock-scada-env" value="1445101362000" />
+        <entry key="$PROJECT_DIR$/../viridity/mongoconnection" value="1427988875000" />
+        <entry key="$PROJECT_DIR$/../viridity/mongoconnection/hello-scala" value="1427988875000" />
+        <entry key="$PROJECT_DIR$/../viridity/vpower-alert" value="10149086324000" />
+        <entry key="$PROJECT_DIR$/../viridity/vpower-drevent" value="8708728209000" />
+        <entry key="$PROJECT_DIR$/../viridity/vpower-experimental" value="1446650569000" />
+        <entry key="$PROJECT_DIR$/../viridity/vpower-load" value="7203488894000" />
+        <entry key="$PROJECT_DIR$/../viridity/vpower-market" value="5795663891000" />
+        <entry key="$PROJECT_DIR$/../viridity/vpower-scada" value="7258858871000" />
+        <entry key="$PROJECT_DIR$/../viridity/vpower-scada-branch" value="7154697990000" />
+        <entry key="$PROJECT_DIR$/../viridity/vpower-udm" value="5787596201000" />
+        <entry key="$PROJECT_DIR$/../viridity/vpower-user" value="8690873172000" />
+        <entry key="$PROJECT_DIR$/../viridity/vpower-weather" value="5728490848000" />
+        <entry key="$PROJECT_DIR$/../xintegrichain" value="1461674943000" />
+        <entry key="$USER_HOME$/temp/alertbkk" value="12980898792000" />
+        <entry key="$USER_HOME$/temp/aws-iot-example" value="1456838523000" />
+        <entry key="$USER_HOME$/temp/foo/vpower-market" value="5737873696000" />
+        <entry key="$USER_HOME$/temp/oldalert" value="12975620832000" />
+        <entry key="$USER_HOME$/temp/oldmarket" value="8679529660000" />
+        <entry key="$USER_HOME$/temp/vpower-market" value="7193135185000" />
+        <entry key="$USER_HOME$/temp/vpower-scada" value="7241582225000" />
+        <entry key="$USER_HOME$/temp/vpower/vpower-scada" value="7157285225000" />
+        <entry key="$USER_HOME$/temp/xvpower-scada" value="7139512610000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36510c27-4158-4534-ab92-a79a442d3343" name="Default" comment="" />
+      <created>1476379768140</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1476379768140</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="45" y="28" width="1864" height="1015" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="DBHelper" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.118551046" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Atlassian " active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17659806" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="DBOutput" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="atlassian-ide-plugin-workspace-issues">
+    <option name="view">
+      <JiraViewConfigurationBean>
+        <option name="viewFilterId" value="" />
+      </JiraViewConfigurationBean>
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/foo/rules/service/DynamicRulesService.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#31#84#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/foo/rules/service/Main.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+          <folding>
+            <element signature="e#31#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/plugins.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.8-sources.jar!/scala/Product.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/srcs/akka-actor_2.11-2.4.11-sources.jar!/akka/actor/Stash.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1410">
+          <caret line="54" column="6" selection-start-line="54" selection-start-column="6" selection-end-line="54" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.8-sources.jar!/scala/util/Try.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5670">
+          <caret line="197" column="17" selection-start-line="197" selection-start-column="17" selection-end-line="197" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/Versions.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_72.jdk/Contents/Home/src.zip!/java/util/ServiceLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="238" column="21" selection-start-line="238" selection-start-column="21" selection-end-line="238" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/local/com.foo/rules-spi_2.11/1.0-SNAPSHOT/srcs/rules-spi_2.11-sources.jar!/com/foo/rules/spi/BusinessRule.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.8-sources.jar!/scala/util/Try.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5670">
+          <caret line="197" column="17" selection-start-line="197" selection-start-column="17" selection-end-line="197" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/foo.sc" />
+    <entry file="file://$PROJECT_DIR$/project/Versions.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/srcs/akka-actor_2.11-2.4.11-sources.jar!/akka/actor/Stash.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.8-sources.jar!/scala/Product.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/foo/rules/service/Main.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+          <folding>
+            <element signature="e#31#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_72.jdk/Contents/Home/src.zip!/java/net/URL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="437" column="11" selection-start-line="437" selection-start-column="11" selection-end-line="437" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/foo/rules/service/DynamicRulesService.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="67" column="58" selection-start-line="67" selection-start-column="58" selection-end-line="67" selection-end-column="58" />
+          <folding>
+            <element signature="e#31#84#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_72.jdk/Contents/Home/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="332" column="24" selection-start-line="332" selection-start-column="24" selection-end-line="332" selection-end-column="24" />
+          <folding>
+            <element signature="e#11566#11567#0" expanded="true" />
+            <element signature="e#11597#11598#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_72.jdk/Contents/Home/src.zip!/java/lang/SecurityManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_72.jdk/Contents/Home/src.zip!/java/security/SecureClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_72.jdk/Contents/Home/src.zip!/java/net/URLClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="155" column="46" selection-start-line="155" selection-start-column="46" selection-end-line="155" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/plugins.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
